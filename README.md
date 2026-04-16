@@ -1,22 +1,24 @@
-
-
 # Customer Churn Prediction Dashboard
 
-A SaaS-style ML web app that predicts telecom customer churn risk using a tuned Random Forest model.
+A production-style Streamlit web app that predicts telecom customer churn risk using a **UX-optimized Random Forest model**.
 
-## Features
-- Churn probability prediction
+## Key Highlights
+- Lightweight 12-feature model for fast user input
+- Clean SaaS-style Streamlit dashboard
+- Churn probability score
 - Risk level classification
-- KPI dashboard
 - Retention recommendations
-- Business insights
+- Business churn signals
+
+## ML Improvements
+- Random Forest
+- Hyperparameter tuning
+- Cross-validation
+- Recall optimization
+- UI-model feature sync for realistic predictions
 
 ## Tech Stack
-- Python
-- Scikit-learn
-- Streamlit
-- Pandas
-- Joblib
+Python, Pandas, Scikit-learn, Streamlit, Joblib
 
 ## Live Demo
-[Streamlit App Link Here]
+[Add Streamlit link after deployment]
