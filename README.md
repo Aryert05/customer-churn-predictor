@@ -1,6 +1,7 @@
 # Customer Churn Prediction Dashboard
 
 A production-style Streamlit web app that predicts telecom customer churn risk using a **UX-optimized Random Forest model**.
+- UX-optimized lightweight model with realistic high-risk prediction behavior
 
 ## Key Highlights
 - Lightweight 12-feature model for fast user input
@@ -21,4 +22,4 @@ A production-style Streamlit web app that predicts telecom customer churn risk u
 Python, Pandas, Scikit-learn, Streamlit, Joblib
 
 ## Live Demo
-[Add Streamlit link after deployment]
+(https://customer-churn-predictor-6gxsa7llhthcqbbwrsf2zr.streamlit.app/)
